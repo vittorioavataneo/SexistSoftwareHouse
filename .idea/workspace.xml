@@ -4,11 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d603cd-1979-48c1-a977-db5d96390f4d" name="Changes" comment="" />
+    <list default="true" id="94d603cd-1979-48c1-a977-db5d96390f4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/data/abstractions/DeveloperRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/data/implementations/InMemoryDeveloperRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/entities/Competence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/entities/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/entities/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/services/abstractions/AbstractSoftwareService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/model/services/implementations/StandardSoftwareService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/generation/italy/sexistSoftwareHouse/view/UserInterfaceConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/generation/italy/sexistSoftwareHouse/model/data/implementations/InMemoryDeveloperRepositoryTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -26,9 +61,109 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Dev/Java/Projects/CodeSchool",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.generation.italy.sexistSoftwareHouse.model.data.implementations" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InMemoryDeveloperRepositoryTest.allCompetences">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.generation.italy.Main" />
+      <module name="SexistSoftwareHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.generation.italy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryDeveloperRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SexistSoftwareHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations" />
+      <option name="MAIN_CLASS_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.InMemoryDeveloperRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryDeveloperRepositoryTest.allCompetences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SexistSoftwareHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations" />
+      <option name="MAIN_CLASS_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.InMemoryDeveloperRepositoryTest" />
+      <option name="METHOD_NAME" value="allCompetences" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryDeveloperRepositoryTest.findDevsByNumOfCompetenceAndLevel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SexistSoftwareHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations" />
+      <option name="MAIN_CLASS_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.InMemoryDeveloperRepositoryTest" />
+      <option name="METHOD_NAME" value="findDevsByNumOfCompetenceAndLevel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InMemoryDeveloperRepositoryTest.maxLevelOfACompetence" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SexistSoftwareHouse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations" />
+      <option name="MAIN_CLASS_NAME" value="org.generation.italy.sexistSoftwareHouse.model.data.implementations.InMemoryDeveloperRepositoryTest" />
+      <option name="METHOD_NAME" value="maxLevelOfACompetence" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InMemoryDeveloperRepositoryTest.allCompetences" />
+        <item itemvalue="JUnit.InMemoryDeveloperRepositoryTest" />
+        <item itemvalue="JUnit.InMemoryDeveloperRepositoryTest.maxLevelOfACompetence" />
+        <item itemvalue="JUnit.InMemoryDeveloperRepositoryTest.findDevsByNumOfCompetenceAndLevel" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +174,15 @@
       <updated>1677324878659</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
